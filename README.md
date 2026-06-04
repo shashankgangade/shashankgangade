@@ -13,7 +13,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=shashankgangade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=shashankgangade&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shashankgangade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shashankgangade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+
+# 🏆 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shashank_gangade?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/shashank_gangade/)
 
 ---
 [![](https://komarev.com/ghpvc/?username=shashankgangade&icon=0&color=0)](https://visitcount.itsvg.in)
